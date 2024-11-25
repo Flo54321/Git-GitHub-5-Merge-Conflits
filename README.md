@@ -1,3 +1,4 @@
+REMOTE
 # Git-GitHub-5-Merge-Conflits
 Not that easy...
 Bon on va tester ce dernier exercice.
