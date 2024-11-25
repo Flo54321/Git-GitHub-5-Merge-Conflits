@@ -4,5 +4,5 @@ Bon on va tester ce dernier exercice.
 Je ne sais pas vous mais j'ai bien galéré pour l'exo précédent !
 Allez, on ne lâche rien !
 Mode warrior
-IS ... DOWNLOWDING...
+IS ... DOWNLOADING...
 Mode warrior ACTIVATED
